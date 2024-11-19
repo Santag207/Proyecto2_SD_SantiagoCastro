@@ -1,0 +1,1082 @@
+[
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.241503,
+        "elapsed_time": 0.3987894058227539
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.2430959,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.2500129,
+        "elapsed_time": 0.0005345344543457031
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.2570949,
+        "elapsed_time": 0.0005218982696533203
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.2648044,
+        "elapsed_time": 6.890296936035156e-05
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.27403,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.2814016,
+        "elapsed_time": 0.0005300045013427734
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.2893853,
+        "elapsed_time": 0.0005359649658203125
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.2974656,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3054657,
+        "elapsed_time": 0.0005934238433837891
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3158102,
+        "elapsed_time": 0.000659942626953125
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.32696,
+        "elapsed_time": 0.0005311965942382812
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3390255,
+        "elapsed_time": 0.0007605552673339844
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3474805,
+        "elapsed_time": 0.0005061626434326172
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3594887,
+        "elapsed_time": 0.00099945068359375
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3674874,
+        "elapsed_time": 0.0010008811950683594
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3754914,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3824887,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3924973,
+        "elapsed_time": 0.0009958744049072266
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.3994985,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.409014,
+        "elapsed_time": 0.0009946823120117188
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.4170232,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.4240174,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.4330158,
+        "elapsed_time": 0.001001596450805664
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.4400227,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.448017,
+        "elapsed_time": 0.0010027885437011719
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.4550185,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.463021,
+        "elapsed_time": 0.0009968280792236328
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.4720223,
+        "elapsed_time": 0.0010044574737548828
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.4790175,
+        "elapsed_time": 0.0010004043579101562
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.4870157,
+        "elapsed_time": 0.0009984970092773438
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.495024,
+        "elapsed_time": 0.0010013580322265625
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.5030265,
+        "elapsed_time": 0.0010058879852294922
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.5115395,
+        "elapsed_time": 0.0010018348693847656
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.5180523,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.5260563,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.534057,
+        "elapsed_time": 0.0010025501251220703
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.5410511,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.549052,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.5570548,
+        "elapsed_time": 0.0010025501251220703
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.56505,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.5730524,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.58105,
+        "elapsed_time": 0.0009987354278564453
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.58805,
+        "elapsed_time": 0.0010001659393310547
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.5950541,
+        "elapsed_time": 0.0009996891021728516
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6020553,
+        "elapsed_time": 0.0009970664978027344
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6085668,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6155663,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6225665,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6295679,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6365666,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6445663,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6515677,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6585665,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6655684,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6735678,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6805675,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6885662,
+        "elapsed_time": 0.0009984970092773438
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.6955705,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7025704,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7100813,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7170806,
+        "elapsed_time": 0.0009987354278564453
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7250817,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7320836,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7400804,
+        "elapsed_time": 0.0009996891021728516
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7480822,
+        "elapsed_time": 0.001001119613647461
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7550802,
+        "elapsed_time": 0.0009996891021728516
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7620804,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7690806,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7770805,
+        "elapsed_time": 0.0010001659393310547
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7840803,
+        "elapsed_time": 0.00099945068359375
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.7920852,
+        "elapsed_time": 0.0009984970092773438
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.799087,
+        "elapsed_time": 0.0009970664978027344
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8065975,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8146002,
+        "elapsed_time": 0.0010006427764892578
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8256037,
+        "elapsed_time": 0.001004934310913086
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8335977,
+        "elapsed_time": 0.00099945068359375
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8405983,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8485975,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8565974,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8635983,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8735986,
+        "elapsed_time": 0.0009989738464355469
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8825996,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8906033,
+        "elapsed_time": 0.00099945068359375
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.8986027,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9071145,
+        "elapsed_time": 0.000997304916381836
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9151118,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9231117,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.930112,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9391115,
+        "elapsed_time": 0.0009999275207519531
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9471133,
+        "elapsed_time": 0.0009999275207519531
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9551117,
+        "elapsed_time": 0.0009999275207519531
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9631114,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9701114,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9791114,
+        "elapsed_time": 0.0009999275207519531
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9881158,
+        "elapsed_time": 0.0009999275207519531
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658078.9961247,
+        "elapsed_time": 0.001001119613647461
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0056317,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0136402,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0226338,
+        "elapsed_time": 0.0010001659393310547
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.031634,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0406344,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0496328,
+        "elapsed_time": 0.000995635986328125
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0586333,
+        "elapsed_time": 0.00099945068359375
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0666418,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0746377,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0846336,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.0936425,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.1026409,
+        "elapsed_time": 0.0009992122650146484
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.1111548,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.1201596,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.1291535,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.1381538,
+        "elapsed_time": 0.0010001659393310547
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.1471586,
+        "elapsed_time": 0.0009965896606445312
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.15616,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.1671605,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.1761577,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.185154,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.1941621,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.2031596,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.2126775,
+        "elapsed_time": 0.001004934310913086
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.221674,
+        "elapsed_time": 0.0009937286376953125
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.2326758,
+        "elapsed_time": 0.0010013580322265625
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.2426727,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.251676,
+        "elapsed_time": 0.0010023117065429688
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.26268,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.2716727,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.2826755,
+        "elapsed_time": 0.001001119613647461
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.2916794,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.3026779,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.312192,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.3231928,
+        "elapsed_time": 0.0010001659393310547
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.3321927,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.3411896,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.351193,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.3611927,
+        "elapsed_time": 0.0009996891021728516
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.371193,
+        "elapsed_time": 0.0010025501251220703
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.3821964,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.392205,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.4022086,
+        "elapsed_time": 0.0010073184967041016
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.41234,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.4213326,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.4313326,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.441336,
+        "elapsed_time": 0.0010023117065429688
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.4503372,
+        "elapsed_time": 0.0010027885437011719
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.4603329,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.4703383,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.4803383,
+        "elapsed_time": 0.0010030269622802734
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.490339,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.5013442,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.510865,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.5203803,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.5293806,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.5403793,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.5503817,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.5593805,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.5723858,
+        "elapsed_time": 0.0010058879852294922
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.5853822,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.599392,
+        "elapsed_time": 0.0010037422180175781
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.6119204,
+        "elapsed_time": 0.0010001659393310547
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.6209188,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.6319203,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.6419253,
+        "elapsed_time": 0.0010063648223876953
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.6509185,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.6609187,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.670919,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.67992,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.689933,
+        "elapsed_time": 0.0010104179382324219
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.6989276,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.7094495,
+        "elapsed_time": 0.0010006427764892578
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.7184508,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.7284465,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.7384534,
+        "elapsed_time": 0.0010023117065429688
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.7474473,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.7564473,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.7664464,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.777452,
+        "elapsed_time": 0.0010051727294921875
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.788449,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.7984538,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.8089676,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.8189669,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.8289654,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.8399704,
+        "elapsed_time": 0.0009999275207519531
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.8489654,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.8599672,
+        "elapsed_time": 0.0009965896606445312
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.8699684,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.882968,
+        "elapsed_time": 0.0010020732879638672
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.893972,
+        "elapsed_time": 0.0009996891021728516
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.90297,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.914481,
+        "elapsed_time": 0.0009992122650146484
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.924486,
+        "elapsed_time": 0.0009999275207519531
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.934483,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.9444818,
+        "elapsed_time": 0.001001596450805664
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.9554815,
+        "elapsed_time": 0.00099945068359375
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.965482,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.9754803,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658079.987482,
+        "elapsed_time": 0.0
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658080.5914993,
+        "elapsed_time": 0.5950109958648682
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658081.5916169,
+        "elapsed_time": 0.9911189079284668
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658082.6102233,
+        "elapsed_time": 0.008510112762451172
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658083.592905,
+        "elapsed_time": 0.9726834297180176
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658084.594555,
+        "elapsed_time": 0.9906480312347412
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658085.5960183,
+        "elapsed_time": 0.9898180961608887
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658086.5963492,
+        "elapsed_time": 0.9868223667144775
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658087.596002,
+        "elapsed_time": 0.9896466732025146
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658088.5967476,
+        "elapsed_time": 0.9897453784942627
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658089.5965123,
+        "elapsed_time": 0.9792494773864746
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658090.5989776,
+        "elapsed_time": 0.9914660453796387
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658091.598403,
+        "elapsed_time": 0.9894165992736816
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658092.5992785,
+        "elapsed_time": 0.9898748397827148
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658093.5989645,
+        "elapsed_time": 0.9896936416625977
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658094.5999157,
+        "elapsed_time": 0.9899494647979736
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658095.600727,
+        "elapsed_time": 0.9908127784729004
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658096.600243,
+        "elapsed_time": 0.9880023002624512
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658097.600838,
+        "elapsed_time": 0.9905984401702881
+    },
+    {
+        "event": "taxi_position_update",
+        "timestamp": 1731658098.6015563,
+        "elapsed_time": 0.9907209873199463
+    }
+]

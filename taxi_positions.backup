@@ -1,0 +1,398 @@
+[
+    {
+        "taxi_id": 1,
+        "x": 2,
+        "y": 0,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 2,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 2,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 2,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 2,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 2,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 4,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 5,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 4,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 2,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 4,
+        "y": 1,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 4,
+        "y": 2,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 4,
+        "y": 3,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 4,
+        "y": 4,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 5,
+        "y": 4,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 4,
+        "y": 4,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 4,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 2,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 2,
+        "y": 6,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 6,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 7,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 8,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 8,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 8,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 8,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 9,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 8,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 7,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 6,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 6,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 0,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 1,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 2,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 2,
+        "y": 4,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 4,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 3,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 4,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 5,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 4,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 2,
+        "y": 4,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 4,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 3,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 2,
+        "status": "available"
+    },
+    {
+        "taxi_id": 1,
+        "x": 3,
+        "y": 1,
+        "status": "available"
+    }
+]
