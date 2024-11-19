@@ -1,34 +1,26 @@
 import zmq
-import threading
-import time
 
-class Broker:
-    def __init__(self, port, heartbeat_port):
-        self.context = zmq.Context()
-        self.broker_socket = self.context.socket(zmq.ROUTER)
-        self.broker_socket.bind(f"tcp://localhost:{port}")
-        self.heartbeat_socket = self.context.socket(zmq.PUSH)
-        self.heartbeat_socket.connect(f"tcp://localhost:{heartbeat_port}")
-        self.message_buffer = []
+def iniciar_broker():
+    contexto = zmq.Context()
 
-    def send_heartbeat(self):
-        while True:
-            self.heartbeat_socket.send_string("heartbeat")
-            time.sleep(2)
+    # Socket SUB para recibir mensajes de los taxis
+    subscripcion = contexto.socket(zmq.XSUB)
+    subscripcion.bind("tcp://*:7005")  # Puerto actualizado
 
-    def forward_messages(self):
-        while True:
-            try:
-                message = self.broker_socket.recv_multipart()
-                self.message_buffer.append(message)  # Almacena mensajes para sincronización
-                self.broker_socket.send_multipart(message)
-            except zmq.ZMQError as e:
-                print(f"Broker error: {e}")
+    # Socket PUB para enviar mensajes al servidor principal
+    publicacion = contexto.socket(zmq.XPUB)
+    publicacion.bind("tcp://*:7006")  # Puerto actualizado
 
-    def start(self):
-        threading.Thread(target=self.send_heartbeat).start()
-        self.forward_messages()
+    print("Broker en ejecución – esperando mensajes...")
+
+    try:
+        zmq.proxy(subscripcion, publicacion)
+    except Exception as error:
+        print(f"Error en el proxy del broker: {error}")
+    finally:
+        subscripcion.close()
+        publicacion.close()
+        contexto.term()
 
 if __name__ == "__main__":
-    broker = Broker(port=5557, heartbeat_port=5562)
-    broker.start()
+    iniciar_broker()
