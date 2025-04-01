@@ -7,6 +7,9 @@
 - **Educational Focus:** Development centered on the learning and deep understanding of distributed systems.
 - **Detailed Documentation:** Guides and instructions to replicate and understand each component of the system.
 
+## Team (Developer)
+Santiago Castro Zuluaga
+
 ## Technologies Used
 
 - **Programming Language:** [Specify the programming language used, e.g., Python/Java/C++].
